@@ -1,0 +1,2 @@
+# Alfred-Workflow-Apple-Music-Playlist
+This workflow was based on the information provided by macstories in this post https://www.macstories.net/stories/a-comprehensive-guide-to-250-of-apple-musics-new-mood-and-activity-playlists/  Tired to check the page everytime I wanted to hear something new and also tired to find something new in a mess of Apple Music App, I imported manually each link and image to here.  So, just type "amusic" to see a list and "amusic+type" to select a specific list and choose inside it, for example "amusicplaces".  Feel free to edit and reshare.
