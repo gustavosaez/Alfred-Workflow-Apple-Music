@@ -20,4 +20,4 @@ Depois de escolher, dê enter e o app de música no seu mac será aberto na play
 Fique à vontade para editar e recompartilhar.
 ---
 
-<img width="844" alt="Alfred Preferences  Alfred Preferences  14 12 2021  20h18m27s" src="https://user-images.githubusercontent.com/7749461/146094738-f6f5fa87-ba2b-4727-8846-e88b2c665514.png">
+<img width="958" alt="Alfred Preferences  Alfred Preferences  10 01 2022  22h14m29s" src="https://user-images.githubusercontent.com/7749461/148864082-befdc118-e0ea-4dfb-b64a-a8b94f500e56.png">
