@@ -1,3 +1,5 @@
+# [Download Lastest Version Now](https://github.com/gustavosaez/Alfred-Workflow-Apple-Music/releases/latest/download/Apple.Music.alfredworkflow)
+
 # Alfred Workflow - Apple Music Playlist
 This workflow was based on the information provided by MacStories in [this post](https://www.macstories.net/stories/a-comprehensive-guide-to-250-of-apple-musics-new-mood-and-activity-playlists)
 
@@ -9,6 +11,9 @@ After choose, tap enter and the music app on your mac will be opened at the play
 
 Feel free to edit and reshare.
 ---
+
+# [Baixar a última versão agora](https://github.com/gustavosaez/Alfred-Workflow-Apple-Music/releases/latest/download/Apple.Music.alfredworkflow)
+
 Este workflow foi baseado na informação fornecida pelo site MacStories [neste post](https://www.macstories.net/stories/a-comprehensive-guide-to-250-of-apple-musics-new-mood-and-activity-playlists)
 
 Cansado de verificar a página deles toda vez que eu quisesse escutar algo novo, e também cansado de buscar algo novo na bagunça do app do Apple Music, importei manualmente cada link e imagem para dentro deste workflow.
